@@ -6,7 +6,7 @@ The on-board computer of the robot. It loads your robot code and manages attache
 
 **Image:**
 
-![RoboRIO](http://www.uwinfirst.com/wp-content/uploads/2013/08/roboRIO+Diagram.png)
+![roboRIO](http://www.uwinfirst.com/wp-content/uploads/2013/08/roboRIO+Diagram.png)
 
 ## PDP
 
