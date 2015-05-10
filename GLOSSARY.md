@@ -1,6 +1,6 @@
 # Glossary
 
-## RoboRIO
+## roboRIO
 
 The on-board computer of the robot. It loads your robot code and manages attached controllers and devices. Click [here](Book/Chapters/1.1.md) for more information.
 
