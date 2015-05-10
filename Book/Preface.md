@@ -1,4 +1,4 @@
-# Introduction
+# Preface
 
 With the help of this book, you will learn to do awesome things with simple code. Who says that building, designing and programming your own robot is not fun? For the newcomers, it’s a heck of fun. It will not be easy. You may even forget the concept of sleeping, but you will see what a real team is and what *“the hardest fun you’ll ever have”* means.
 
