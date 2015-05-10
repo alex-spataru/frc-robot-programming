@@ -16,4 +16,4 @@ By the end of this book, you will be able to:
 
 We sincerely hope that you enjoy reading this book and hopefully learn something from it.
 
-Team 3794 Programming team.
+Team 3794 Electrical/Programming Team.
