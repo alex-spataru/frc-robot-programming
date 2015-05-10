@@ -13,3 +13,7 @@ By the end of this book, you will be able to:
 - Write different command modes for your robot. If you don’t understand this, you will understand later, trust me :)
 - Understand the basics – and not so basics – of C++
 - Be confident with programming anything you dream of
+
+We sincerely hope that you enjoy reading this book and hopefully learn something from it.
+
+Team 3794 Programming team
