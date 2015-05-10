@@ -10,7 +10,7 @@ Acronym for "Power Distribution Panel". It distributes electrical power to all t
 
 ## PCM
 
-Device that
+Device that contains all of the inputs and outputs required to operate 12V or 24V pneumatic solenoids and the on board compressor.
 
 ## RSL
 
