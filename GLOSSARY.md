@@ -12,6 +12,14 @@ Acronym for "Power Distribution Panel". It distributes electrical power to all t
 
 Acronym for "Robot Status Light". It allows anyone near the robot to know its operation mode (TeleOp, Autonomous, etc) and know if something is wrong with the robot.
 
+## DIO
+
+Acronym for "Digital Input/Ouput". Its used for sensors and devices that send and recieve a boolean value (true/false).
+
+## AIO
+
+Acronym for "Analog Input/Ouput". Its used for sensors and devices that send and receive data by measuring its voltage.
+
 ## PWM
 
 Acronym for "Pulse-width Modulation". A technique used to encode information into a pulsating electric signal. Its used in many industrial applications, such as controlling electrical motors or communicating with micro-controllers. Other uses include controlling computer components, such as CPU fans.
