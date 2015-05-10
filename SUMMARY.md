@@ -24,5 +24,28 @@
         * [Inheritance: I am your father!](Books/Chapters/2.3.5.md)
 
 * [Robot Programming](Book/Chapters/3.0.md)
+    * [Eclipse and other Goodies](Book/Chapters/3.1.md)
+    * [Introduction to FRC robot programming](Book/Chapters/3.2.md)
+        * [Moving a motor in C++](Book/Chapters/3.2.1.md)
+        * [Moving a motor with a Joystick](Book/Chapters/3.2.2.md)
+        * [Moving two motors with two joysticks](Book/Chapters/3.2.3.md)
+    * [How a robot project is organized](Book/Chapters/3.3.md)
+        * [Robot Mapping](Book/Chapters/3.3.1.md)
+        * [IterativeRobot](Book/Chapters/3.3.2.md)
+        * [Commands](Book/Chapters/3.3.3.md)
+        * [Subsystems](Book/Chapters/3.3.4.md)
+    * [Write your own Robot code](Book/Chapters/3.4.md)
+        * [Fixing the default template]((Book/Chapters/3.4.1.md)
+        * [Write a subsystem](Book/Chapters/3.4.2.md)
+        * [TeleOp command](Book/Chapters/3.4.3.md)
+        * [Autonomous command](Book/Chapters/3.4.4.md)
+        * [The SmartDashboard](Book/Chapters/3.4.5.md)
+
+* [To Infinity and Beyond](Book/Chapter/4.0.md)
+    * [AStyle: Making your code readable](Book/Chapter/4.1.md)
+    * [Collaborate with GIT](Book/Chapter/4.2.md)
+    * [Create GUI applications with Qt](Book/Chapter/4.3.md)
+    * [Open Source is better](Books/Chapter/4.4.md)
+
 * [Bibliographies](Book/Bibliographies.md)
 
