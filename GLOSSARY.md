@@ -32,9 +32,9 @@ Acronym for "Digital Input/Ouput". Its used for sensors and devices that send an
 
 Acronym for "Analog Input/Ouput". Its used for sensors and devices that send and receive data by measuring its voltage.
 
-## CAN
+## Controller Area Network
 
-Acronym for "Controller Area Network". Its a standard that allows micro-controllers to communicate with each other without the need of a host computer. Its used primarly by the automotive industry.
+A standard that allows micro-controllers to communicate with each other without the need of a host computer. Its used primarly by the automotive industry.
 
 ## DIO
 
