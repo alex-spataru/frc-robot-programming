@@ -1,10 +1,10 @@
 # Robot Components
 
-FRC robots are relatively easy to understand because FIRST enforces a set of standards that every FRC team needs to follow in order to compete. For example, you can only use a limited set of motor controllers and you may use only “official” or “approved” hardware for your robot.
+FRC robots are easy to understand because FIRST enforces a set of standards for all FRC teams.For example, you can only use “official” or “approved” hardware for your robot.
 
 ### The RoboRIO
 
-The RoboRIO is one of the most important components of a FRC robot; it’s a computer that loads your robot code automatically, makes available the Analog, Digital and PWM devices to the programmer and manages every attached device with your code.
+The RoboRIO is one of the most important components of a FRC robot. It’s a computer that loads your robot code automatically and manages the robot components with it.
 
 ![RoboRIO with Labels](http://khengineering.github.io/RoboRio/controls/Images/roborio.jpg)
 
@@ -18,12 +18,12 @@ The RoboRIO is one of the most important components of a FRC robot; it’s a com
 
 ### The Power Distribution Panel (PDP)
 
-The PDP is in charge of sending electrical power to all the robot components. All FRC teams are enforced to use this panel for safety reasons; every component that requires electricity must be connected to the PDP. If there’s a short on the robot, the PDP will trip the corresponding breaker automatically.
+The PDP is in charge of sending electrical power to all the robot components. All FRC teams are enforced to use this panel for safety reasons. Every component that requires electricity must be connected to the PDP. If there’s a short on the robot, the PDP will trip the corresponding breaker automatically.
 
 ![PDP with Labels](http://khengineering.github.io/RoboRio/controls/Images/pdpinfo.png)
 
 ### The Pneumatics Control Module
 
-If your team uses pneumatics to control some aspects of your robot, you will need this module to control your pneumatic components.
+The pneumatics control module allows you to control the robot's pneumatic components. Its commands run through CAN bus.
 
 ![PCM with Labels](http://khengineering.github.io/RoboRio/Images/pcminfo.png)
