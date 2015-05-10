@@ -5,6 +5,8 @@
 * [Robot Components](Book/Chapters/1.0.md)
    * [General Hardware Overview](Book/Chapters/1.1.md)
    * [Status Lights Quick Reference](Book/Chapters/1.2.md)
+   * [PWM and CAN](Book/Chapters/1.3.md)
+
 * [Learning C++](Book/Chapters/2.0.md)
     * [Introduction to C++ and Sofware Development](Book/Chapters/2.1.md)
         * [History of C++](Book/Chapters/2.1.1.md)
