@@ -6,7 +6,7 @@ This book will teach you to program a FRC robot. Some previous programming exper
 
 If you are not familiar with a term on this book, you can always Google it or you can check the Glossary section of this book.
 
-### How to use this book
+### ➠ How to use this book
 This book will try to explain everything in the simplest terms. If you have a question, you can always use Google before complaining. If that still does not help you, [e-mail](mailto:alex_spataru@outlook.com) me or ask your mentors about it.
 
 #### Do not copy-and-paste
@@ -18,7 +18,7 @@ The one skill that separates bad programmers from good programmers is attention 
 By going through this book, and copying each example exactly. You will be training your brain to focus on the details of what you are doing, as you are doing it. (Shaw)
 
 
-### Safety warnings and some advice
+### ➠ Safety warnings and some advice
 
 This book is distributed in the hope that it will be useful, but without any warranty. If your robot explodes or becomes the boot loader of Skynet, its not my fault, its yours and yours only. 
 
