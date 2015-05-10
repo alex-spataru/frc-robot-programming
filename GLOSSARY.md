@@ -6,7 +6,7 @@ The on-board computer of the robot. Click [here](Book/Chapters/1.1.md) for more 
 
 ## PDP
 
-Acronym for "Power Distribution Board"
+Acronym for "Power Distribution Panel". Click [here](Book/Chapters/1.2.md) for more information
 
 ## RSL
 
