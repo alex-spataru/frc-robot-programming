@@ -22,5 +22,7 @@
         * [Pre-processors: Customize before compiling](Book/Chapters/2.3.3.md)
         * [Static Methods: No copies allowed](Book/Chapters/2.3.4.md)
         * [Inheritance: I am your father!](Books/Chapters/2.3.5.md)
+
+* [Robot Programming](Book/Chapters/3.0.md)
 * [Bibliographies](Book/Bibliographies.md)
 
