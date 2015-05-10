@@ -15,5 +15,3 @@ By the end of this book, you will be able to:
 - Be confident with programming anything you dream of
 
 We sincerely hope that you enjoy reading this book and hopefully learn something from it.
-
-Team 3794 Electrical/Programming Team.
