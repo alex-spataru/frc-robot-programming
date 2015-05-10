@@ -30,7 +30,7 @@ While the probability of exploding your robot or creating the next *Terminator* 
 
 Use common sense; do not enable the robot when somebody is working with it. Warn your team when you enable it and disable as soon as you finished using it. If something goes wrong, immediately press the &lt;**SPACE**&gt; key in your keyboard to stop the robot.
 
-**A quick list of tips may help you:**
+** A quick list of tips may help you:**
 - Always DOUBLE CHECK YOUR CODE when you are writing a new feature
 - Document your code properly. The art of programming is not writing code that computers understand. Its writing code that humans can read and understand
 - When testing a new feature or removing code, test your code for every change you perform. This will avoid bugs and will help you understand where and why you did something wrong. Fixing a single error is easier than fixing ten errors that are related to each other.
