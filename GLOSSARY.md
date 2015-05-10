@@ -8,6 +8,10 @@ The on-board computer of the robot. It loads your robot code and manages attache
 
 Acronym for "Power Distribution Panel". It distributes electrical power to all the controllers and devices that need it.
 
+## PCM
+
+Device that
+
 ## RSL
 
 Acronym for "Robot Status Light". It allows anyone near the robot to know its operation mode (TeleOp, Autonomous, etc) and know if something is wrong with the robot.
