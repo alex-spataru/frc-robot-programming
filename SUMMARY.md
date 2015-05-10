@@ -49,5 +49,6 @@
     * [Create GUI applications with Qt](Book/Chapter/4.3.md)
     * [Open Source is better](Books/Chapter/4.4.md)
 
+* [Glossary](Book/Glossary.md)
 * [Bibliographies](Book/Bibliographies.md)
 
