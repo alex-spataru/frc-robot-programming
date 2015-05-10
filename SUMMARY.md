@@ -7,6 +7,5 @@
     * [1.2 The Power Distribution Panel](Book/Chapters/1.2.md)
     * [1.3 The Pneumatics Control Module](Book/Chapters/1.3.md)
     * [1.4 The Motor Controllers](Book/Chapters/1.4.md)
-* [Glossary](Book/Glossary.md)
 * [Bibliographies](Book/Bibliographies.md)
 
