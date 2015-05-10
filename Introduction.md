@@ -27,7 +27,7 @@ This book is distributed in the hope that it will be useful, but without any war
 
 While the probability of exploding your robot or creating the next *Terminator* is highly unlikely. Be very careful when writing and testing your code. You never know when something will fail or when your robot will start acting “crazy” due to a bad circuit or a bug in the code. 
 
-Use common sense; do not enable the robot when somebody is working with it. Warn your team when you enable it and disable as soon as you finished using it. If something goes wrong, immediately press the space key in your keyboard to stop the robot.
+Use common sense; do not enable the robot when somebody is working with it. Warn your team when you enable it and disable as soon as you finished using it. If something goes wrong, immediately press the &lt;**SPACE**&gt; key in your keyboard to stop the robot.
 
 **A quick list of tips may help you:**
 - Always DOUBLE CHECK YOUR CODE when you are writing a new feature
