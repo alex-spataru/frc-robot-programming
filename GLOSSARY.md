@@ -6,11 +6,11 @@ The on-board computer of the robot. It loads your robot code and manages attache
 
 ## PDP
 
-Acronym for "Power Distribution Panel". It distributes electrical power to all the controllers and devices that require it. Click [here](Book/Chapters/1.2.md) for more information.
+Acronym for "Power Distribution Panel". It distributes electrical power to all the controllers and devices that need it. Click [here](Book/Chapters/1.2.md) for more information.
 
 ## RSL
 
-Acronym for "Robot Status Light"
+Acronym for "Robot Status Light". It allows anyone near the robot to know its operation mode (TeleOp, Autonomous, etc) and know if something is wrong with the robot.
 
 ## CAN
 
