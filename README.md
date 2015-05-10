@@ -1,8 +1,8 @@
-# FRC Robot Programming 
+# FRC Robot Programming
 
 **Note:** I've just started writing this book, so its very incomplete at the moment.
 
-This simple book is meant to get you started in FRC robot programming. 
+This simple book is meant to get you started in FRC robot programming.
 
 As [Shaw's LPTH](http://learnpythonthehardway.org), this book teaches you to write code for FRC robots by building and establishing skills through practice and memorization.
 

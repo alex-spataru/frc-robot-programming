@@ -22,7 +22,7 @@ By going through this book, and copying each example exactly. You will be traini
 
 This book is distributed in the hope that it will be useful, but without any warranty. If your robot explodes or becomes the boot loader of Skynet, its not my fault, its yours and yours only. 
 
-![Terminator](http://cdn.screenrant.com/wp-content/uploads/terminator-reboot-genesis-images.jpg)
+![Terminator](../Images/Terminator.jpg)
 
 *You are responsible if your robot ends like this*
 
