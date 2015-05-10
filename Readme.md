@@ -1,10 +1,12 @@
 # FRC Robot Programming the Hard Way
 
-This simple book is meant to get you started in FRC robot programming. The title says it’s “the hard way” because it uses an age-old technique called “instruction”. Instruction is where I tell you to do a sequence of controlled exercises designed to build a skill through repetition. This technique works very well with beginners who know nothing and need to acquire basic skills before they can understand more complex topics. It's used in everything from martial arts to music to even basic math, reading skills and – finally – robot programming.
+This simple book is meant to get you started in FRC robot programming. 
+
+The title says it’s “the hard way” because it uses an age-old technique called “instruction”. Instruction is where I tell you to do a sequence of controlled exercises designed to build a skill through repetition. This technique works very well with beginners who know nothing and need to acquire basic skills before they can understand more complex topics. It's used in everything from martial arts to music to even basic math, reading skills and – finally – robot programming.
 
 Many newcomers expect to get up and running with programming by typing some random characters in a terminal or text editor. Programming is not that. Programming requires learning and dedication. And the best way to learn is to repeat to build skill and confidence. 
 
-If you are familiar with this introduction, I grabbed it from *Learn Python the Hard Way*, by Zed A. Shaw. It’s an excellent book for getting started with programming. You can read it for free here. Its not required for this book, but I highly recommend it to you.
+If you are familiar with this introduction, I grabbed it from *Learn Python the Hard Way*, by Zed A. Shaw. It’s an excellent book for getting started with programming. You can read it for free [here](http://learnpythonthehardway.org/book/). Its not required for this book, but I highly recommend it to you if you don't have any previous programming experience.
 
 This book teaches you to write code for FRC robots by building and establishing skills through practice and memorization.
 
