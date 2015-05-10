@@ -1,6 +1,6 @@
 # Introduction
 
-With the help of this book, you will learn to do awesome things with simple code. Who says that building, designing and programming your own robot is not fun? For the newcomers, it’s a heck of fun. It will not be easy; you may even forget the concept of sleeping, but you will see what a real team is and what the “hardest fun you’ll ever have” really means.
+With the help of this book, you will learn to do awesome things with simple code. Who says that building, designing and programming your own robot is not fun? For the newcomers, it’s a heck of fun. It will not be easy. You may even forget the concept of sleeping, but you will see what a real team is and what *“the hardest fun you’ll ever have”* means.
 
 This book will teach you to program a FRC robot. Some previous programming experience is recommended, but not required. 
 
@@ -20,14 +20,14 @@ By going through this book, and copying each example exactly, you will be traini
 
 ### Safety warnings and some advice
 
-This book is distributed in the hope that it will be useful, but without any warranty; if your robot explodes or becomes the boot loader of Skynet, its not my fault, its yours and yours only. 
+This book is distributed in the hope that it will be useful, but without any warranty. If your robot explodes or becomes the boot loader of Skynet, its not my fault, its yours and yours only. 
 
-While the probability of exploding your robot or creating the next Terminator is highly unlikely, be very careful when writing and testing your code. You never know when something will fail or when your robot will start acting “crazy” due to a bad circuit or a bug in the code. Use common sense; do not enable the robot when somebody is working with it. Warn your team when you enable it and disable as soon as you finished using it. If something goes wrong, immediately press the space key in your keyboard to stop the robot.
+While the probability of exploding your robot or creating the next Terminator is highly unlikely. Be very careful when writing and testing your code. You never know when something will fail or when your robot will start acting “crazy” due to a bad circuit or a bug in the code. Use common sense; do not enable the robot when somebody is working with it. Warn your team when you enable it and disable as soon as you finished using it. If something goes wrong, immediately press the space key in your keyboard to stop the robot.
 
 **A quick list of tips may help you:**
 -	Always DOUBLE CHECK YOUR CODE when you are writing a new feature
--	Document your code properly, the art of programming is not writing code that computers understand; its writing code that humans can read and understand
--	When testing a new feature or removing code, test your code for every change you perform. This will avoid “bugs” and will help you understand where you did something wrong: fixing a single error is easier than fixing ten errors that are related to each other.
+-	Document your code properly. The art of programming is not writing code that computers understand, its writing code that humans can read and understand
+-	When testing a new feature or removing code, test your code for every change you perform. This will avoid bugs and will help you understand where you did something wrong. Fixing a single error is easier than fixing ten errors that are related to each other.
 -	DO NOT ENABLE THE ROBOT SOMEBODY IS NEAR ITS OPERATIONAL ZONE.
 -	Always have someone near the computer you drive the robot with. He or she must be able to stop the robot as soon as something is about to go wrong. We broke a couple of windows in our school by not doing this.
 -	Write your code as simple as possible, this will reduce the chances of unexpected robot errors.
