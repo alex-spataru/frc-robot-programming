@@ -27,7 +27,7 @@ While the probability of exploding your robot or creating the next Terminator is
 **A quick list of tips may help you:**
 -	Always DOUBLE CHECK YOUR CODE when you are writing a new feature
 -	Document your code properly. The art of programming is not writing code that computers understand, its writing code that humans can read and understand
--	When testing a new feature or removing code, test your code for every change you perform. This will avoid bugs and will help you understand where you did something wrong. Fixing a single error is easier than fixing ten errors that are related to each other.
+-	When testing a new feature or removing code, test your code for every change you perform. This will avoid bugs and will help you understand where and why you did something wrong. Fixing a single error is easier than fixing ten errors that are related to each other.
 -	DO NOT ENABLE THE ROBOT SOMEBODY IS NEAR ITS OPERATIONAL ZONE.
 -	Always have someone near the computer you drive the robot with. He or she must be able to stop the robot as soon as something is about to go wrong. We broke a couple of windows in our school by not doing this.
 -	Write your code as simple as possible, this will reduce the chances of unexpected robot errors.
