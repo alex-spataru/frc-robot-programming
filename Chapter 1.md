@@ -1,4 +1,4 @@
-# How an FRC Robot Works
+# Robot Components
 
 FRC robots are relatively easy to understand because FIRST enforces a set of standards that every FRC team needs to follow in order to compete. For example, you can only use a limited set of motor controllers and you may use only “official” or “approved” hardware for your robot.
 
