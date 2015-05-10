@@ -22,7 +22,7 @@
        * [Headers and Sources](Book/Chapters/2.3.2.md)
        * [Pre-processor](Book/Chapters/2.3.3.md)
        * [Static Methods](Book/Chapters/2.3.4.md)
-       * [Inheritance](Books/Chapters/2.3.5.md)
+       * [Inheritance](Book/Chapters/2.3.5.md)
 * [Robot Programming](Book/Chapters/3.0.md)
    * [Eclipse and other Goodies](Book/Chapters/3.1.md)
        * [Microsoft Windows](Book/Chapters/3.1.1.md)
