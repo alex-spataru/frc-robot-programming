@@ -25,6 +25,9 @@
 
 * [Robot Programming](Book/Chapters/3.0.md)
     * [Eclipse and other Goodies](Book/Chapters/3.1.md)
+        * [Microsoft Windows](Book/Chapters/3.1.1.md)
+        * [Mac OS X](Book/Chapters/3.1.2.md)
+        * [GNU/Linux (Ubuntu)](Book/Chapters/3.1.3.md)
     * [Introduction to FRC robot programming](Book/Chapters/3.2.md)
         * [Moving a motor in C++](Book/Chapters/3.2.1.md)
         * [Moving a motor with a Joystick](Book/Chapters/3.2.2.md)
