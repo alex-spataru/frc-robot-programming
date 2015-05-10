@@ -22,6 +22,9 @@ By going through this book, and copying each example exactly. You will be traini
 
 This book is distributed in the hope that it will be useful, but without any warranty. If your robot explodes or becomes the boot loader of Skynet, its not my fault, its yours and yours only. 
 
+![Terminator](http://cdn.screenrant.com/wp-content/uploads/terminator-reboot-genesis-images.jpg)
+*I am not responsible if your robot ends like this*
+
 While the probability of exploding your robot or creating the next *Terminator* is highly unlikely. Be very careful when writing and testing your code. You never know when something will fail or when your robot will start acting “crazy” due to a bad circuit or a bug in the code. 
 
 Use common sense; do not enable the robot when somebody is working with it. Warn your team when you enable it and disable as soon as you finished using it. If something goes wrong, immediately press the space key in your keyboard to stop the robot.
