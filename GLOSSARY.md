@@ -14,7 +14,7 @@ Acronym for "Robot Status Light". It allows anyone near the robot to know its op
 
 ## CAN
 
-Acronym for "Controller Area Network"
+Acronym for "Controller Area Network". A standard designed to allow micro-controllers and devices to communicate with each other without the need of a host computer. First used in the automotive industry.
 
 ## PWM
 
