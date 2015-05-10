@@ -2,11 +2,11 @@
 
 ## roboRIO
 
-The on-board computer of the robot. It loads your robot code and manages attached controllers and devices. Click [here](Book/Chapters/1.1.md) for more information.
+The on-board computer of the robot. It loads your robot code and manages attached controllers and devices. 
 
 ## PDP
 
-Acronym for "Power Distribution Panel". It distributes electrical power to all the controllers and devices that need it. Click [here](Book/Chapters/1.2.md) for more information.
+Acronym for "Power Distribution Panel". It distributes electrical power to all the controllers and devices that need it.
 
 ## RSL
 
