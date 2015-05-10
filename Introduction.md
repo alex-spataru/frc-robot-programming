@@ -15,20 +15,22 @@ In this book, you will see many exercises containing code. If you really want to
 #### Pay attention to details
 The one skill that separates bad programmers from good programmers is attention to detail. In fact, it's what separates the good from the bad in any profession. You must pay attention to the tiniest details of your work or you will miss important elements of what you create. In programming, this is how you end up with bugs and difficult-to-use systems.
 
-By going through this book, and copying each example exactly, you will be training your brain to focus on the details of what you are doing, as you are doing it. (Shaw)
+By going through this book, and copying each example exactly. You will be training your brain to focus on the details of what you are doing, as you are doing it. (Shaw)
 
 
 ### Safety warnings and some advice
 
 This book is distributed in the hope that it will be useful, but without any warranty. If your robot explodes or becomes the boot loader of Skynet, its not my fault, its yours and yours only. 
 
-While the probability of exploding your robot or creating the next Terminator is highly unlikely. Be very careful when writing and testing your code. You never know when something will fail or when your robot will start acting “crazy” due to a bad circuit or a bug in the code. Use common sense; do not enable the robot when somebody is working with it. Warn your team when you enable it and disable as soon as you finished using it. If something goes wrong, immediately press the space key in your keyboard to stop the robot.
+While the probability of exploding your robot or creating the next *Terminator* is highly unlikely. Be very careful when writing and testing your code. You never know when something will fail or when your robot will start acting “crazy” due to a bad circuit or a bug in the code. 
+
+Use common sense; do not enable the robot when somebody is working with it. Warn your team when you enable it and disable as soon as you finished using it. If something goes wrong, immediately press the space key in your keyboard to stop the robot.
 
 **A quick list of tips may help you:**
--	Always DOUBLE CHECK YOUR CODE when you are writing a new feature
--	Document your code properly. The art of programming is not writing code that computers understand, its writing code that humans can read and understand
--	When testing a new feature or removing code, test your code for every change you perform. This will avoid bugs and will help you understand where and why you did something wrong. Fixing a single error is easier than fixing ten errors that are related to each other.
--	DO NOT ENABLE THE ROBOT SOMEBODY IS NEAR ITS OPERATIONAL ZONE.
--	Always have someone near the computer you drive the robot with. He or she must be able to stop the robot as soon as something is about to go wrong. We broke a couple of windows in our school by not doing this.
--	Write your code as simple as possible, this will reduce the chances of unexpected robot errors.
--	Follow the KISS principle (Keep It Simple, Stupid). You will thank me for that later.
+- Always DOUBLE CHECK YOUR CODE when you are writing a new feature
+- Document your code properly. The art of programming is not writing code that computers understand. Its writing code that humans can read and understand
+- When testing a new feature or removing code, test your code for every change you perform. This will avoid bugs and will help you understand where and why you did something wrong. Fixing a single error is easier than fixing ten errors that are related to each other.
+- DO NOT ENABLE THE ROBOT SOMEBODY IS NEAR ITS OPERATIONAL ZONE.
+- Always have someone near the computer you drive the robot with. He or she must be able to stop the robot as soon as something is about to go wrong. We broke a couple of windows in our school by not doing this.
+- Write your code as simple as possible, this will reduce the chances of unexpected robot errors.
+- Follow the [KISS](http://www.techopedia.com/definition/20262/keep-it-simple-stupid-principle-kiss-principle) principle (Keep It Simple Stupid). You will thank me for that later.
