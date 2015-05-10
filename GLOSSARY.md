@@ -18,7 +18,7 @@ Containing or operated by air or gas under pressure.
 
 ## RSL
 
-Acronym for "Robot Status Light". It allows anyone near the robot to know its operation mode (TeleOp, Autonomous, etc) and know if something is wrong with the robot.
+Acronym for "Robot Status Light". It allows anyone near the robot to know if the robot is enabled and know if something is wrong with the robot.
 
 ## DIO
 
