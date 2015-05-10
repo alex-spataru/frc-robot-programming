@@ -1,4 +1,4 @@
-# Preface
+# FRC Robot Programming the Hard Way
 
 This simple book is meant to get you started in FRC robot programming. The title says it’s “the hard way” because it uses an age-old technique called “instruction”. Instruction is where I tell you to do a sequence of controlled exercises designed to build a skill through repetition. This technique works very well with beginners who know nothing and need to acquire basic skills before they can understand more complex topics. It's used in everything from martial arts to music to even basic math, reading skills and – finally – robot programming.
 
