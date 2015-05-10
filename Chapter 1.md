@@ -45,6 +45,6 @@ The primary differences between the motor controllers above are:
 - **Safety**: air intakes posses a serious security threat to your robot. Avoid them when possible.
 - **Size**: depending on your robot, you may appreciate the smaller sized motor controllers.
 - **Output**: each motor controller has a different way to control a motor. The best way to test this is by plugging in a motor and testing its performance with each controller.
-- **Temperature efficiency**: older models, such as the Jaguar and Victor 888 controllers, may take more time to cool down.
+- **Temperature efficiency**: older models, such as the Jaguar and Victor 888 controllers, may take more time to cool down than newer controllers.
 
 Our team prefers to use the Victor SP controllers for secondary subsystems, such as the elevator or rollers. We use the Talon SRX controllers for primary subsystems, such as the drive system.
