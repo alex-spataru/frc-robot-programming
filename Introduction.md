@@ -7,7 +7,7 @@ This book will teach you to program a FRC robot. Some previous programming exper
 If you are not familiar with a term on this book, you can always Google it or you can check the Glossary section of this book.
 
 ### How to use this book
-This book will try to explain everything in the simplest terms. If you have a question, you can always use Google before complaining. If that still does not help you, e-mail me or ask your mentors about it.
+This book will try to explain everything in the simplest terms. If you have a question, you can always use Google before complaining. If that still does not help you, [e-mail](mailto:alex_spataru@outlook.com) me or ask your mentors about it.
 
 #### Do not copy-and-paste
 In this book, you will see many exercises containing code. If you really want to learn to code, do not copy-and-paste. Type the code by yourself, manually. If you copy-and-paste these exercises, you will learn nothing from them. The point of these exercises is to train your hands and brain to code.
