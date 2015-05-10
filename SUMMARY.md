@@ -6,7 +6,6 @@
    * [General Hardware Overview](Book/Chapters/1.1.md)
    * [Status Lights Quick Reference](Book/Chapters/1.2.md)
    * [PWM and CAN](Book/Chapters/1.3.md)
-
 * [Learning C++](Book/Chapters/2.0.md)
     * [Introduction to C++ and Sofware Development](Book/Chapters/2.1.md)
         * [History of C++](Book/Chapters/2.1.1.md)
@@ -24,7 +23,6 @@
         * [Pre-processors: Customize before compiling](Book/Chapters/2.3.3.md)
         * [Static Methods: No copies allowed](Book/Chapters/2.3.4.md)
         * [Inheritance: I am your father!](Books/Chapters/2.3.5.md)
-
 * [Robot Programming](Book/Chapters/3.0.md)
     * [Eclipse and other Goodies](Book/Chapters/3.1.md)
         * [Microsoft Windows](Book/Chapters/3.1.1.md)
@@ -45,7 +43,6 @@
         * [TeleOp command](Book/Chapters/3.4.3.md)
         * [Autonomous command](Book/Chapters/3.4.4.md)
         * [The SmartDashboard](Book/Chapters/3.4.5.md)
-
 * [To Infinity and Beyond](Book/Chapter/4.0.md)
     * [AStyle: Making your code readable](Book/Chapter/4.1.md)
     * [Collaborate with GIT](Book/Chapter/4.2.md)
