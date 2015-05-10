@@ -12,6 +12,10 @@ Acronym for "Power Distribution Panel". It distributes electrical power to all t
 
 Device that contains all of the inputs and outputs required to operate 12V or 24V pneumatic solenoids and the on board compressor.
 
+## Pneumatic
+
+Containing or operated by air or gas under pressure.
+
 ## RSL
 
 Acronym for "Robot Status Light". It allows anyone near the robot to know its operation mode (TeleOp, Autonomous, etc) and know if something is wrong with the robot.
