@@ -1,6 +1,6 @@
 # Robot Components
 
-FRC robots are easy to understand because FIRST enforces a set of standards for all FRC teams.For example, you can only use “official” or “approved” hardware for your robot.
+FRC robots are easy to understand because FIRST enforces a set of standards for all FRC teams. For example, you can only use “official” or “approved” hardware for your robot.
 
 ### The RoboRIO
 
