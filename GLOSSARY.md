@@ -20,3 +20,10 @@ Acronym for "Controller Area Network"
 
 Acronym for "Pulse-width Modulation"
 
+## Power Distribution Panel
+
+## Robot Status Light
+
+## Controller Area Network
+
+## Pulse-width Modulation
