@@ -16,7 +16,7 @@ Acronym for "Robot Status Light". It allows anyone near the robot to know its op
 
 Acronym for "Digital Input/Ouput". Its used for sensors and devices that send and recieve a boolean value (true/false).
 
-## AIO
+## Analog Input
 
 Acronym for "Analog Input/Ouput". Its used for sensors and devices that send and receive data by measuring its voltage.
 
