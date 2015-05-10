@@ -4,6 +4,10 @@
 
 The on-board computer of the robot. It loads your robot code and manages attached controllers and devices. 
 
+## FRC
+
+Acronym for "FIRST Robotics Competition". Its a high-school level international robotics competition that takes places on a yearly basis. Teams have a 6 week period to design, build and program a robot that competes for the yearly challenge.
+
 ## PDP
 
 Acronym for "Power Distribution Panel". It distributes electrical power to all the controllers and devices that need it.
