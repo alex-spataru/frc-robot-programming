@@ -12,3 +12,4 @@
 - **squareRIO.png**: http://mililanirobotics.gitbooks.io/frc-electrical-bible/content/roboRIO/squareRIO.png
 - **PWM.tiff**: https://learn.adafruit.com/system/assets/assets/000/003/652/medium800/learn_raspberry_pi_how_pwm_works.jpg?1396799428
 - **CAN.gif**: http://www.ni.com/cms/images/devzone/tut/c/bd378304156.gif
+- **Meme.jpg**: http://www.siliconrepublic.com/fs/img/programmermeme2.jpg

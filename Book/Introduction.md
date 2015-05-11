@@ -2,7 +2,7 @@
 
 With the help of this book, you will learn to do awesome things with simple code. Who says that building, designing and programming your own robot is not fun? For the newcomers, it’s a heck of fun. It will not be easy. You may even forget the concept of sleeping, but you will see what a real team is and what *“the hardest fun you’ll ever have”* means.
 
-This book will teach you to program a FRC robot. Some previous programming experience is recommended, but not required. 
+This book will teach you to program a FRC robot. Some previous programming experience is recommended, but not required.
 
 If you are not familiar with a term on this book, you can always Google it or you can check the Glossary section of this book.
 
@@ -20,13 +20,13 @@ By going through this book, and copying each example exactly. You will be traini
 
 ### ➠ Safety warnings and some advice
 
-This book is distributed in the hope that it will be useful, but without any warranty. If your robot explodes or becomes the boot loader of Skynet, its not my fault, its yours and yours only. 
+This book is distributed in the hope that it will be useful, but without any warranty. If your robot explodes or becomes the boot loader of Skynet, its not my fault, its yours and yours only.
 
 ![Terminator](../Images/Terminator.jpg)
 
 *You are responsible if your robot ends like this*
 
-While the probability of exploding your robot or creating the next *Terminator* is highly unlikely. Be very careful when writing and testing your code. You never know when something will fail or when your robot will start acting “crazy” due to a bad circuit or a bug in the code. 
+While the probability of exploding your robot or creating the next *Terminator* is highly unlikely. Be very careful when writing and testing your code. You never know when something will fail or when your robot will start acting “crazy” due to a bad circuit or a bug in the code.
 
 Use common sense; do not enable the robot when somebody is working with it. Warn your team when you enable it and disable as soon as you finished using it. If something goes wrong, immediately press the &lt;**SPACE**&gt; key in your keyboard to stop the robot.
 
