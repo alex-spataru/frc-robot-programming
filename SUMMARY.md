@@ -9,7 +9,7 @@
 * [Learning C++](Book/Chapters/2.0.md)
    * [Introduction to Software Development](Book/Chapters/2.1.md)
        * [History of C/C++](Book/Chapters/2.1.1.md)
-       * [Installing the Development Tools](Book/Chapters/2.1.3.md)
+       * [Compilers](Book/Chapters/2.1.3.md)
    * [C++ Basics](Book/Chapters/2.2.md)
        * [Structure of a Program](Book/Chapters/2.2.1.md)
        * [Variables](Book/Chapters/2.2.2.md)
